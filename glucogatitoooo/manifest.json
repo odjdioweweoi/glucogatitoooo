@@ -1,0 +1,23 @@
+{
+  "name": "GlucoGatito: Diario de Insulina",
+  "short_name": "GlucoGatito",
+  "description": "Una adorable calculadora de insulina y diario de comidas.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff1f2",
+  "theme_color": "#f87171",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
